@@ -5,4 +5,5 @@ Source codes used for my master thesis work. I wanted to achieve racing vehicle 
 Use starting grid positions or chicane kerbs to get the intrinsic camera parameters and re-estimate the extrinsics to get the localization. This technique is defined in the files contained in the folders "Chicane" and "Starting grid". "Chicane" uses chicane kerbs as calibration patterns whereas "Starting grid" uses starting positions as patterns. In these two folders, "dataset_creation.m" can be used to create strut variables and save pixel locations. "param_estimate.m" defines the extrinsic and intrinsic parameters.
 
 ## 2nd technique: match the curves
-Use partial telemetry data and video sources to perform a minimization. This provides the values of the intriniscs and the extrinsics for each frame
+Use partial telemetry data and video sources to perform a minimization. This provides the values of the intriniscs and the extrinsics for each frame.
+The reference folder is "Optimization procedure"
