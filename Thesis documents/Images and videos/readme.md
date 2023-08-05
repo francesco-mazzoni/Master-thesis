@@ -1,3 +1,5 @@
 # Images and videos
 
-This folder contains all images and videos used for the thesis work
+This folder contains all images used for the thesis work
+
+Unfortunately I could not upload the video since it is more than 25 MBs...
