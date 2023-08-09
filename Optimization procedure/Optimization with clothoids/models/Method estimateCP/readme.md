@@ -6,4 +6,4 @@ In this folder you can find the Matlab files to be used for the optimization pro
 3) Create a raw data struct: open raw_data_creation.m and create a rawdata struct for first-guess results
 4) Perform the optimization via min_solver.m
 
-All the other Matlab files are Matlab functions that are called in the main scripts listed above
+All the other Matlab files are Matlab functions that are called in the main scripts listed above.
