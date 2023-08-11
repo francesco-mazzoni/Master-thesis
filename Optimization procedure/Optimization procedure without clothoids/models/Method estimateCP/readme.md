@@ -7,3 +7,5 @@ In this folder you can find the Matlab files to be used for the optimization pro
 4) Perform the optimization via min_solver.m
 
 All the other Matlab files are Matlab functions that are called in the main scripts listed above.
+
+Additional files not present in the other optimization version: plotcallback.m is used to provide a visual feedback of what happens during the optimization procedure; pos_and_or.m is used to provide inequality contraints; cost_2.m is a second way to perform the minimization focusing on the curves' centroids; 
